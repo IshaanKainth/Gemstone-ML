@@ -1,0 +1,13 @@
+pandas 
+numpy 
+seaborn
+matplotlib
+scikit-learn
+dvc
+mlflow
+pytest
+tox
+black
+flake8
+mypy
+-e .
