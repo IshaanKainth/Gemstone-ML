@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops-ML/Gemstone-ML/mlruns/0/03297f4d5be14e66afe6163884f0998d/artifacts
+end_time: 1744787835622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03297f4d5be14e66afe6163884f0998d
+run_name: capricious-goose-669
+run_uuid: 03297f4d5be14e66afe6163884f0998d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744787830898
+status: 3
+tags: []
+user_id: Ishaan Kainth
