@@ -8,5 +8,6 @@ mlflow
 apache-airflow==2.7.3
 flask
 Flask-Session==0.4.0
+gunicorn
 
 -e . 
